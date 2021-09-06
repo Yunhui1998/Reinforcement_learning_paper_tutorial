@@ -1,1 +1,3 @@
 # Reinforcement_learning_paper_tutorial
+
+现在的repo中包含了强化学习常见的方向下论文，大部分论文都带着笔记和注释，方便大家阅读，后续会补充更多的论文以及相关的笔记
